@@ -1,4 +1,6 @@
+# Runtime Artifacts
 *.py[cod]
+venv
 
 # C extensions
 *.so
